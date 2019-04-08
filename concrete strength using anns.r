@@ -1,4 +1,4 @@
-setwd("D:/Google Drive/Work/SA/Proposals/M&M/Delivery/Refer/Machine learning/Machine learning/ANN")
+setwd("")
 #Load data into R
 concrete  <- read.csv("Concrete_Data.csv", stringsAsFactors = FALSE)
 
